@@ -7,3 +7,6 @@
 - This is a *redirection repository* only, the original one is private.
 
 - The site is intended for large screens only.
+
+
+![](https://github.com/FrancescoDiCursi/gdpr_viz/blob/main/gdpr_viz_preview.gif)
