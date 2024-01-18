@@ -1,4 +1,7 @@
 # gdpr_viz
-A handy tool to explore citations and words of GDPR
 
-This is a *redirection repository* only, the original is private.
+- 🖥️ See the [git page](https://francescodicursi.github.io/gdpr-visualizer/)
+
+- A handy tool to explore citations and words of GDPR
+
+- This is a *redirection repository* only, the original one is private.
