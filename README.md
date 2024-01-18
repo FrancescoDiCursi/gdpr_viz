@@ -5,3 +5,5 @@
 - 🖥️ See the [git page](https://francescodicursi.github.io/gdpr-visualizer/).
 
 - This is a *redirection repository* only, the original one is private.
+
+- The site is intended for large screens only.
